@@ -1,0 +1,10 @@
+C:\Users\Davis-School\Desktop\105-6\bin\Debug\105-6.exe.config
+C:\Users\Davis-School\Desktop\105-6\bin\Debug\105-6.exe
+C:\Users\Davis-School\Desktop\105-6\bin\Debug\105-6.pdb
+C:\Users\Davis-School\Desktop\105-6\obj\Debug\105-6.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\105-6\obj\Debug\_105_6.Form1.resources
+C:\Users\Davis-School\Desktop\105-6\obj\Debug\_105_6.Properties.Resources.resources
+C:\Users\Davis-School\Desktop\105-6\obj\Debug\105-6.csproj.GenerateResource.Cache
+C:\Users\Davis-School\Desktop\105-6\obj\Debug\105-6.csproj.CoreCompileInputs.cache
+C:\Users\Davis-School\Desktop\105-6\obj\Debug\105-6.exe
+C:\Users\Davis-School\Desktop\105-6\obj\Debug\105-6.pdb

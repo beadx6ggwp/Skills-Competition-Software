@@ -1,0 +1,10 @@
+c:\users\davis-school\Desktop\96-1\bin\Debug\96-1.exe.config
+c:\users\davis-school\Desktop\96-1\bin\Debug\96-1.exe
+c:\users\davis-school\Desktop\96-1\bin\Debug\96-1.pdb
+c:\users\davis-school\Desktop\96-1\obj\Debug\96-1.csprojResolveAssemblyReference.cache
+c:\users\davis-school\Desktop\96-1\obj\Debug\_96_1.Form1.resources
+c:\users\davis-school\Desktop\96-1\obj\Debug\_96_1.Properties.Resources.resources
+c:\users\davis-school\Desktop\96-1\obj\Debug\96-1.csproj.GenerateResource.Cache
+c:\users\davis-school\Desktop\96-1\obj\Debug\96-1.csproj.CoreCompileInputs.cache
+c:\users\davis-school\Desktop\96-1\obj\Debug\96-1.exe
+c:\users\davis-school\Desktop\96-1\obj\Debug\96-1.pdb

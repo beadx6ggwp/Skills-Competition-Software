@@ -1,0 +1,40 @@
+C:\Users\david\Documents\Visual Studio 2017\Projects\101-6\bin\Debug\101-6.exe.config
+C:\Users\david\Documents\Visual Studio 2017\Projects\101-6\bin\Debug\101-6.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\101-6\bin\Debug\101-6.pdb
+C:\Users\david\Documents\Visual Studio 2017\Projects\101-6\obj\Debug\101-6.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\101-6\obj\Debug\_101_6.Form1.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\101-6\obj\Debug\_101_6.Properties.Resources.resources
+C:\Users\david\Documents\Visual Studio 2017\Projects\101-6\obj\Debug\101-6.csproj.GenerateResource.Cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\101-6\obj\Debug\101-6.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\Visual Studio 2017\Projects\101-6\obj\Debug\101-6.exe
+C:\Users\david\Documents\Visual Studio 2017\Projects\101-6\obj\Debug\101-6.pdb
+C:\Users\Davis-School\Desktop\101-6-OK\bin\Debug\101-6.exe.config
+C:\Users\Davis-School\Desktop\101-6-OK\bin\Debug\101-6.exe
+C:\Users\Davis-School\Desktop\101-6-OK\bin\Debug\101-6.pdb
+C:\Users\Davis-School\Desktop\101-6-OK\obj\Debug\101-6.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\101-6-OK\obj\Debug\_101_6.Form1.resources
+C:\Users\Davis-School\Desktop\101-6-OK\obj\Debug\_101_6.Properties.Resources.resources
+C:\Users\Davis-School\Desktop\101-6-OK\obj\Debug\101-6.csproj.GenerateResource.Cache
+C:\Users\Davis-School\Desktop\101-6-OK\obj\Debug\101-6.csproj.CoreCompileInputs.cache
+C:\Users\Davis-School\Desktop\101-6-OK\obj\Debug\101-6.exe
+C:\Users\Davis-School\Desktop\101-6-OK\obj\Debug\101-6.pdb
+C:\Users\Davis-School\Desktop\101-6\bin\Debug\101-6.exe.config
+C:\Users\Davis-School\Desktop\101-6\bin\Debug\101-6.exe
+C:\Users\Davis-School\Desktop\101-6\bin\Debug\101-6.pdb
+C:\Users\Davis-School\Desktop\101-6\obj\Debug\101-6.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\101-6\obj\Debug\_101_6.Form1.resources
+C:\Users\Davis-School\Desktop\101-6\obj\Debug\_101_6.Properties.Resources.resources
+C:\Users\Davis-School\Desktop\101-6\obj\Debug\101-6.csproj.GenerateResource.Cache
+C:\Users\Davis-School\Desktop\101-6\obj\Debug\101-6.csproj.CoreCompileInputs.cache
+C:\Users\Davis-School\Desktop\101-6\obj\Debug\101-6.exe
+C:\Users\Davis-School\Desktop\101-6\obj\Debug\101-6.pdb
+C:\Users\david\Desktop\101-6-debug\bin\Debug\101-6.exe.config
+C:\Users\david\Desktop\101-6-debug\bin\Debug\101-6.exe
+C:\Users\david\Desktop\101-6-debug\bin\Debug\101-6.pdb
+C:\Users\david\Desktop\101-6-debug\obj\Debug\101-6.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\101-6-debug\obj\Debug\_101_6.Form1.resources
+C:\Users\david\Desktop\101-6-debug\obj\Debug\_101_6.Properties.Resources.resources
+C:\Users\david\Desktop\101-6-debug\obj\Debug\101-6.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\101-6-debug\obj\Debug\101-6.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\101-6-debug\obj\Debug\101-6.exe
+C:\Users\david\Desktop\101-6-debug\obj\Debug\101-6.pdb

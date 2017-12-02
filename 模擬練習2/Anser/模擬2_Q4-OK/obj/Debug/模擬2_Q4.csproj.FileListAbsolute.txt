@@ -1,0 +1,10 @@
+C:\Users\Davis-School\Desktop\模擬2_Q4\bin\Debug\模擬2_Q4.exe.config
+C:\Users\Davis-School\Desktop\模擬2_Q4\bin\Debug\模擬2_Q4.exe
+C:\Users\Davis-School\Desktop\模擬2_Q4\bin\Debug\模擬2_Q4.pdb
+C:\Users\Davis-School\Desktop\模擬2_Q4\obj\Debug\模擬2_Q4.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\模擬2_Q4\obj\Debug\模擬2_Q4.Form1.resources
+C:\Users\Davis-School\Desktop\模擬2_Q4\obj\Debug\模擬2_Q4.Properties.Resources.resources
+C:\Users\Davis-School\Desktop\模擬2_Q4\obj\Debug\模擬2_Q4.csproj.GenerateResource.Cache
+C:\Users\Davis-School\Desktop\模擬2_Q4\obj\Debug\模擬2_Q4.csproj.CoreCompileInputs.cache
+C:\Users\Davis-School\Desktop\模擬2_Q4\obj\Debug\模擬2_Q4.exe
+C:\Users\Davis-School\Desktop\模擬2_Q4\obj\Debug\模擬2_Q4.pdb

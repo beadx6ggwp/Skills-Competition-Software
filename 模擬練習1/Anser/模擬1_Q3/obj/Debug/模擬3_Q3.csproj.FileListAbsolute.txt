@@ -1,0 +1,10 @@
+c:\users\davis-school\Desktop\模擬3_Q3\bin\Debug\模擬3_Q3.exe.config
+c:\users\davis-school\Desktop\模擬3_Q3\bin\Debug\模擬3_Q3.exe
+c:\users\davis-school\Desktop\模擬3_Q3\bin\Debug\模擬3_Q3.pdb
+c:\users\davis-school\Desktop\模擬3_Q3\obj\Debug\模擬3_Q3.csprojResolveAssemblyReference.cache
+c:\users\davis-school\Desktop\模擬3_Q3\obj\Debug\模擬3_Q3.Form1.resources
+c:\users\davis-school\Desktop\模擬3_Q3\obj\Debug\模擬3_Q3.Properties.Resources.resources
+c:\users\davis-school\Desktop\模擬3_Q3\obj\Debug\模擬3_Q3.csproj.GenerateResource.Cache
+c:\users\davis-school\Desktop\模擬3_Q3\obj\Debug\模擬3_Q3.csproj.CoreCompileInputs.cache
+c:\users\davis-school\Desktop\模擬3_Q3\obj\Debug\模擬3_Q3.exe
+c:\users\davis-school\Desktop\模擬3_Q3\obj\Debug\模擬3_Q3.pdb

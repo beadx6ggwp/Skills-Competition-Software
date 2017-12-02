@@ -1,0 +1,9 @@
+C:\Users\Davis-School\Desktop\103-6\bin\Debug\103-6.exe.config
+C:\Users\Davis-School\Desktop\103-6\bin\Debug\103-6.exe
+C:\Users\Davis-School\Desktop\103-6\bin\Debug\103-6.pdb
+C:\Users\Davis-School\Desktop\103-6\obj\Debug\103-6.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\103-6\obj\Debug\_103_6.Form1.resources
+C:\Users\Davis-School\Desktop\103-6\obj\Debug\_103_6.Properties.Resources.resources
+C:\Users\Davis-School\Desktop\103-6\obj\Debug\103-6.csproj.GenerateResource.Cache
+C:\Users\Davis-School\Desktop\103-6\obj\Debug\103-6.exe
+C:\Users\Davis-School\Desktop\103-6\obj\Debug\103-6.pdb

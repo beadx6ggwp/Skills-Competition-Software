@@ -1,0 +1,6 @@
+C:\Users\Davis-School\Desktop\103-4\bin\Debug\103-4.exe.config
+C:\Users\Davis-School\Desktop\103-4\bin\Debug\103-4.exe
+C:\Users\Davis-School\Desktop\103-4\bin\Debug\103-4.pdb
+C:\Users\Davis-School\Desktop\103-4\obj\Debug\103-4.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\103-4\obj\Debug\103-4.exe
+C:\Users\Davis-School\Desktop\103-4\obj\Debug\103-4.pdb

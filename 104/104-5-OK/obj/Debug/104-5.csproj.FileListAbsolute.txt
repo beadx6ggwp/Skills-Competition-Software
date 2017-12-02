@@ -1,0 +1,9 @@
+c:\users\davis-school\documents\visual studio 2017\Projects\104-5\bin\Debug\104-5.exe.config
+c:\users\davis-school\documents\visual studio 2017\Projects\104-5\bin\Debug\104-5.exe
+c:\users\davis-school\documents\visual studio 2017\Projects\104-5\bin\Debug\104-5.pdb
+c:\users\davis-school\documents\visual studio 2017\Projects\104-5\obj\Debug\104-5.csprojResolveAssemblyReference.cache
+c:\users\davis-school\documents\visual studio 2017\Projects\104-5\obj\Debug\_104_5.Properties.Resources.resources
+c:\users\davis-school\documents\visual studio 2017\Projects\104-5\obj\Debug\104-5.csproj.GenerateResource.Cache
+c:\users\davis-school\documents\visual studio 2017\Projects\104-5\obj\Debug\104-5.exe
+c:\users\davis-school\documents\visual studio 2017\Projects\104-5\obj\Debug\104-5.pdb
+c:\users\davis-school\documents\visual studio 2017\Projects\104-5\obj\Debug\_104_5.Form1.resources

@@ -1,0 +1,13 @@
+C:\Users\Davis-School\Desktop\105-2\bin\Debug\105-2.exe.config
+C:\Users\Davis-School\Desktop\105-2\bin\Debug\105-2.exe
+C:\Users\Davis-School\Desktop\105-2\bin\Debug\105-2.pdb
+C:\Users\Davis-School\Desktop\105-2\obj\Debug\105-2.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\105-2\obj\Debug\_105_2.Form1.resources
+C:\Users\Davis-School\Desktop\105-2\obj\Debug\_105_2.Properties.Resources.resources
+C:\Users\Davis-School\Desktop\105-2\obj\Debug\105-2.csproj.GenerateResource.Cache
+C:\Users\Davis-School\Desktop\105-2\obj\Debug\105-2.csproj.CoreCompileInputs.cache
+C:\Users\Davis-School\Desktop\105-2\obj\Debug\105-2.exe
+C:\Users\Davis-School\Desktop\105-2\obj\Debug\105-2.pdb
+C:\Users\Saihs\Desktop\Skills-Competition-Software-master\105\105-2-OK\bin\Debug\105-2.exe.config
+C:\Users\Saihs\Desktop\Skills-Competition-Software-master\105\105-2-OK\obj\Debug\105-2.exe
+C:\Users\Saihs\Desktop\Skills-Competition-Software-master\105\105-2-OK\obj\Debug\105-2.pdb

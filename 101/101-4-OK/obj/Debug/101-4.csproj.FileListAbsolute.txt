@@ -1,0 +1,10 @@
+C:\Users\Davis-School\Desktop\101-4\bin\Debug\101-4.exe.config
+C:\Users\Davis-School\Desktop\101-4\bin\Debug\101-4.exe
+C:\Users\Davis-School\Desktop\101-4\bin\Debug\101-4.pdb
+C:\Users\Davis-School\Desktop\101-4\obj\Debug\101-4.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\101-4\obj\Debug\_101_4.Form1.resources
+C:\Users\Davis-School\Desktop\101-4\obj\Debug\_101_4.Properties.Resources.resources
+C:\Users\Davis-School\Desktop\101-4\obj\Debug\101-4.csproj.GenerateResource.Cache
+C:\Users\Davis-School\Desktop\101-4\obj\Debug\101-4.csproj.CoreCompileInputs.cache
+C:\Users\Davis-School\Desktop\101-4\obj\Debug\101-4.exe
+C:\Users\Davis-School\Desktop\101-4\obj\Debug\101-4.pdb

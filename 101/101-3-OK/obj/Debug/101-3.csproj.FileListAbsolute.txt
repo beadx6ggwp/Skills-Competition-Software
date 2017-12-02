@@ -1,0 +1,7 @@
+C:\Users\Davis-School\Desktop\101-3\bin\Debug\101-3.exe.config
+C:\Users\Davis-School\Desktop\101-3\bin\Debug\101-3.exe
+C:\Users\Davis-School\Desktop\101-3\bin\Debug\101-3.pdb
+C:\Users\Davis-School\Desktop\101-3\obj\Debug\101-3.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\101-3\obj\Debug\101-3.csproj.CoreCompileInputs.cache
+C:\Users\Davis-School\Desktop\101-3\obj\Debug\101-3.exe
+C:\Users\Davis-School\Desktop\101-3\obj\Debug\101-3.pdb

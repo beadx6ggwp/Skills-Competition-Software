@@ -1,0 +1,6 @@
+C:\Users\Davis-School\Documents\Visual Studio 2017\Projects\104-4\bin\Debug\104-4.exe.config
+C:\Users\Davis-School\Documents\Visual Studio 2017\Projects\104-4\bin\Debug\104-4.exe
+C:\Users\Davis-School\Documents\Visual Studio 2017\Projects\104-4\bin\Debug\104-4.pdb
+C:\Users\Davis-School\Documents\Visual Studio 2017\Projects\104-4\obj\Debug\104-4.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Documents\Visual Studio 2017\Projects\104-4\obj\Debug\104-4.exe
+C:\Users\Davis-School\Documents\Visual Studio 2017\Projects\104-4\obj\Debug\104-4.pdb

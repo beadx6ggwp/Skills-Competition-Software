@@ -1,0 +1,10 @@
+C:\Users\Davis-School\Desktop\模擬練習1\Anser\模擬1_Q3\bin\Debug\模擬1_Q3.exe.config
+C:\Users\Davis-School\Desktop\模擬練習1\Anser\模擬1_Q3\bin\Debug\模擬1_Q3.exe
+C:\Users\Davis-School\Desktop\模擬練習1\Anser\模擬1_Q3\bin\Debug\模擬1_Q3.pdb
+C:\Users\Davis-School\Desktop\模擬練習1\Anser\模擬1_Q3\obj\Debug\模擬1_Q3.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\模擬練習1\Anser\模擬1_Q3\obj\Debug\模擬1_Q3.Form1.resources
+C:\Users\Davis-School\Desktop\模擬練習1\Anser\模擬1_Q3\obj\Debug\模擬1_Q3.Properties.Resources.resources
+C:\Users\Davis-School\Desktop\模擬練習1\Anser\模擬1_Q3\obj\Debug\模擬1_Q3.csproj.GenerateResource.Cache
+C:\Users\Davis-School\Desktop\模擬練習1\Anser\模擬1_Q3\obj\Debug\模擬1_Q3.csproj.CoreCompileInputs.cache
+C:\Users\Davis-School\Desktop\模擬練習1\Anser\模擬1_Q3\obj\Debug\模擬1_Q3.exe
+C:\Users\Davis-School\Desktop\模擬練習1\Anser\模擬1_Q3\obj\Debug\模擬1_Q3.pdb

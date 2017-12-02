@@ -1,0 +1,27 @@
+c:\users\david\documents\visual studio 2017\Projects\工科101-6\bin\Debug\工科101-6.exe.config
+c:\users\david\documents\visual studio 2017\Projects\工科101-6\bin\Debug\工科101-6.exe
+c:\users\david\documents\visual studio 2017\Projects\工科101-6\bin\Debug\工科101-6.pdb
+c:\users\david\documents\visual studio 2017\Projects\工科101-6\obj\Debug\工科101-6.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2017\Projects\工科101-6\obj\Debug\工科101_6.Form1.resources
+c:\users\david\documents\visual studio 2017\Projects\工科101-6\obj\Debug\工科101_6.Properties.Resources.resources
+c:\users\david\documents\visual studio 2017\Projects\工科101-6\obj\Debug\工科101-6.csproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2017\Projects\工科101-6\obj\Debug\工科101-6.exe
+c:\users\david\documents\visual studio 2017\Projects\工科101-6\obj\Debug\工科101-6.pdb
+C:\Users\david\Desktop\工科\101-6-OK\bin\Debug\工科101-6.exe.config
+C:\Users\david\Desktop\工科\101-6-OK\bin\Debug\工科101-6.exe
+C:\Users\david\Desktop\工科\101-6-OK\bin\Debug\工科101-6.pdb
+C:\Users\david\Desktop\工科\101-6-OK\obj\Debug\工科101-6.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\工科\101-6-OK\obj\Debug\工科101_6.Form1.resources
+C:\Users\david\Desktop\工科\101-6-OK\obj\Debug\工科101_6.Properties.Resources.resources
+C:\Users\david\Desktop\工科\101-6-OK\obj\Debug\工科101-6.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\工科\101-6-OK\obj\Debug\工科101-6.exe
+C:\Users\david\Desktop\工科\101-6-OK\obj\Debug\工科101-6.pdb
+C:\Users\DavidHsu\Documents\GitHub\Skills-Competition-Software-master\101\101-6-OK\bin\Debug\工科101-6.exe.config
+C:\Users\DavidHsu\Documents\GitHub\Skills-Competition-Software-master\101\101-6-OK\bin\Debug\工科101-6.exe
+C:\Users\DavidHsu\Documents\GitHub\Skills-Competition-Software-master\101\101-6-OK\bin\Debug\工科101-6.pdb
+C:\Users\DavidHsu\Documents\GitHub\Skills-Competition-Software-master\101\101-6-OK\obj\Debug\工科101-6.csprojResolveAssemblyReference.cache
+C:\Users\DavidHsu\Documents\GitHub\Skills-Competition-Software-master\101\101-6-OK\obj\Debug\工科101_6.Form1.resources
+C:\Users\DavidHsu\Documents\GitHub\Skills-Competition-Software-master\101\101-6-OK\obj\Debug\工科101_6.Properties.Resources.resources
+C:\Users\DavidHsu\Documents\GitHub\Skills-Competition-Software-master\101\101-6-OK\obj\Debug\工科101-6.csproj.GenerateResource.Cache
+C:\Users\DavidHsu\Documents\GitHub\Skills-Competition-Software-master\101\101-6-OK\obj\Debug\工科101-6.exe
+C:\Users\DavidHsu\Documents\GitHub\Skills-Competition-Software-master\101\101-6-OK\obj\Debug\工科101-6.pdb
