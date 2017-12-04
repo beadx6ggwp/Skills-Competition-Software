@@ -7,3 +7,13 @@ c:\users\abc\Desktop\許展維-Q6\obj\Debug\許展維_Q6.Properties.Resources.re
 c:\users\abc\Desktop\許展維-Q6\obj\Debug\許展維-Q6.csproj.GenerateResource.Cache
 c:\users\abc\Desktop\許展維-Q6\obj\Debug\許展維-Q6.exe
 c:\users\abc\Desktop\許展維-Q6\obj\Debug\許展維-Q6.pdb
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q6-OK\bin\Debug\許展維-Q6.exe.config
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q6-OK\bin\Debug\許展維-Q6.exe
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q6-OK\bin\Debug\許展維-Q6.pdb
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q6-OK\obj\Debug\許展維-Q6.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q6-OK\obj\Debug\許展維_Q6.Form1.resources
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q6-OK\obj\Debug\許展維_Q6.Properties.Resources.resources
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q6-OK\obj\Debug\許展維-Q6.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q6-OK\obj\Debug\許展維-Q6.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q6-OK\obj\Debug\許展維-Q6.exe
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q6-OK\obj\Debug\許展維-Q6.pdb
