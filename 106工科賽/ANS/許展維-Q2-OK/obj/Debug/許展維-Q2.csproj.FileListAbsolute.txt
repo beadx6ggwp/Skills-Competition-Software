@@ -1,0 +1,6 @@
+c:\users\abc\Desktop\許展維-Q2\bin\Debug\許展維-Q2.exe.config
+c:\users\abc\Desktop\許展維-Q2\bin\Debug\許展維-Q2.exe
+c:\users\abc\Desktop\許展維-Q2\bin\Debug\許展維-Q2.pdb
+c:\users\abc\Desktop\許展維-Q2\obj\Debug\許展維-Q2.csprojResolveAssemblyReference.cache
+c:\users\abc\Desktop\許展維-Q2\obj\Debug\許展維-Q2.exe
+c:\users\abc\Desktop\許展維-Q2\obj\Debug\許展維-Q2.pdb

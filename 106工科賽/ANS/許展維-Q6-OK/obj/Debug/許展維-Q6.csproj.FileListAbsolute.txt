@@ -1,0 +1,9 @@
+c:\users\abc\Desktop\許展維-Q6\bin\Debug\許展維-Q6.exe.config
+c:\users\abc\Desktop\許展維-Q6\bin\Debug\許展維-Q6.exe
+c:\users\abc\Desktop\許展維-Q6\bin\Debug\許展維-Q6.pdb
+c:\users\abc\Desktop\許展維-Q6\obj\Debug\許展維-Q6.csprojResolveAssemblyReference.cache
+c:\users\abc\Desktop\許展維-Q6\obj\Debug\許展維_Q6.Form1.resources
+c:\users\abc\Desktop\許展維-Q6\obj\Debug\許展維_Q6.Properties.Resources.resources
+c:\users\abc\Desktop\許展維-Q6\obj\Debug\許展維-Q6.csproj.GenerateResource.Cache
+c:\users\abc\Desktop\許展維-Q6\obj\Debug\許展維-Q6.exe
+c:\users\abc\Desktop\許展維-Q6\obj\Debug\許展維-Q6.pdb

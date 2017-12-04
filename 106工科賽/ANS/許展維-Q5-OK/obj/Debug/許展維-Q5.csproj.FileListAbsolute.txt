@@ -1,0 +1,13 @@
+c:\users\abc\Desktop\許展維-Q5\bin\Debug\許展維-Q5.exe.config
+c:\users\abc\Desktop\許展維-Q5\bin\Debug\許展維-Q5.exe
+c:\users\abc\Desktop\許展維-Q5\bin\Debug\許展維-Q5.pdb
+c:\users\abc\Desktop\許展維-Q5\obj\Debug\許展維-Q5.csprojResolveAssemblyReference.cache
+c:\users\abc\Desktop\許展維-Q5\obj\Debug\許展維-Q5.exe
+c:\users\abc\Desktop\許展維-Q5\obj\Debug\許展維-Q5.pdb
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q5\bin\Debug\許展維-Q5.exe.config
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q5\bin\Debug\許展維-Q5.exe
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q5\bin\Debug\許展維-Q5.pdb
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q5\obj\Debug\許展維-Q5.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q5\obj\Debug\許展維-Q5.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q5\obj\Debug\許展維-Q5.exe
+C:\Users\david\Desktop\106工科賽\ANS\許展維-Q5\obj\Debug\許展維-Q5.pdb
