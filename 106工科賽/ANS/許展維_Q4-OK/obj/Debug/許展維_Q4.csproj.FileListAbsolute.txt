@@ -1,0 +1,10 @@
+C:\Users\Saihs\Desktop\許展維_Q4\bin\Debug\許展維_Q4.exe.config
+C:\Users\Saihs\Desktop\許展維_Q4\bin\Debug\許展維_Q4.exe
+C:\Users\Saihs\Desktop\許展維_Q4\bin\Debug\許展維_Q4.pdb
+C:\Users\Saihs\Desktop\許展維_Q4\obj\Debug\許展維_Q4.csprojResolveAssemblyReference.cache
+C:\Users\Saihs\Desktop\許展維_Q4\obj\Debug\許展維_Q4.Form1.resources
+C:\Users\Saihs\Desktop\許展維_Q4\obj\Debug\許展維_Q4.Properties.Resources.resources
+C:\Users\Saihs\Desktop\許展維_Q4\obj\Debug\許展維_Q4.csproj.GenerateResource.Cache
+C:\Users\Saihs\Desktop\許展維_Q4\obj\Debug\許展維_Q4.csproj.CoreCompileInputs.cache
+C:\Users\Saihs\Desktop\許展維_Q4\obj\Debug\許展維_Q4.exe
+C:\Users\Saihs\Desktop\許展維_Q4\obj\Debug\許展維_Q4.pdb
