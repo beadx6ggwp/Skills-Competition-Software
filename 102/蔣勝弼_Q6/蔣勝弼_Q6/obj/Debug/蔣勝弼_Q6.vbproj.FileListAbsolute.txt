@@ -1,0 +1,20 @@
+D:\Visual Basic\工科賽歷屆題目練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\bin\Debug\蔣勝弼_Q6.exe.config
+D:\Visual Basic\工科賽歷屆題目練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\bin\Debug\蔣勝弼_Q6.exe
+D:\Visual Basic\工科賽歷屆題目練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\bin\Debug\蔣勝弼_Q6.pdb
+D:\Visual Basic\工科賽歷屆題目練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\bin\Debug\蔣勝弼_Q6.xml
+D:\Visual Basic\工科賽歷屆題目練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.Form1.resources
+D:\Visual Basic\工科賽歷屆題目練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.Resources.resources
+D:\Visual Basic\工科賽歷屆題目練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.vbproj.GenerateResource.Cache
+D:\Visual Basic\工科賽歷屆題目練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.exe
+D:\Visual Basic\工科賽歷屆題目練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.xml
+D:\Visual Basic\工科賽歷屆題目練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.pdb
+C:\Users\ray\Desktop\蔣勝弼_2012\1#工科賽歷屆試題練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\bin\Debug\蔣勝弼_Q6.exe.config
+C:\Users\ray\Desktop\蔣勝弼_2012\1#工科賽歷屆試題練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\bin\Debug\蔣勝弼_Q6.exe
+C:\Users\ray\Desktop\蔣勝弼_2012\1#工科賽歷屆試題練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\bin\Debug\蔣勝弼_Q6.pdb
+C:\Users\ray\Desktop\蔣勝弼_2012\1#工科賽歷屆試題練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\bin\Debug\蔣勝弼_Q6.xml
+C:\Users\ray\Desktop\蔣勝弼_2012\1#工科賽歷屆試題練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.Form1.resources
+C:\Users\ray\Desktop\蔣勝弼_2012\1#工科賽歷屆試題練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.Resources.resources
+C:\Users\ray\Desktop\蔣勝弼_2012\1#工科賽歷屆試題練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.vbproj.GenerateResource.Cache
+C:\Users\ray\Desktop\蔣勝弼_2012\1#工科賽歷屆試題練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.exe
+C:\Users\ray\Desktop\蔣勝弼_2012\1#工科賽歷屆試題練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.xml
+C:\Users\ray\Desktop\蔣勝弼_2012\1#工科賽歷屆試題練習\第二次\102\蔣勝弼_Q6\蔣勝弼_Q6\obj\Debug\蔣勝弼_Q6.pdb
