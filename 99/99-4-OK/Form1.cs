@@ -16,18 +16,19 @@ namespace _99_4
         {
             InitializeComponent();
         }
-        bool reverse = false;
-        bool empty = false;
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Clear();
-            int n = int.Parse(textBox2.Text);
+            int n = (int)numericUpDown1.Value;
             int lv = (n + 1) / 2;
 
+            bool reverse = radioButton2.Checked;
+            bool empty = radioButton4.Checked;
+
             List<string> str = new List<string>();
-            string test = new string('c', 8);
+            //string test = new string('c', 8);
             string s = "";
-            for (int i = 1; i <= n; i += 2)
+            for (int i = 1; i <= n; i += 2)// 第一層1個,第二層3個...
             {
                 s = "";
                 s = s.PadLeft((n - i) / 2, ' ');
@@ -44,26 +45,21 @@ namespace _99_4
             if (reverse) str.Reverse();
 
             textBox1.Text = string.Join("\r\n", str.ToArray());
+
+            /*
+             x:空格(PadLeft)
+             *:星星
+             
+             x x x * x x x
+             x x * * * x x
+             x * * * * * x
+             * * * * * * *
+             */
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button5_Click(object sender, EventArgs e)
         {
-            reverse = false;
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            reverse = true;
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            empty = true;
-        }
-
-        private void button6_Click(object sender, EventArgs e)
-        {
-            empty = false;
+            textBox1.Clear();
         }
     }
 }
