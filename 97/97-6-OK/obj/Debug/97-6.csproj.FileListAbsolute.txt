@@ -8,3 +8,13 @@ C:\Users\Davis-School\source\repos\97-6\obj\Debug\97-6.csproj.GenerateResource.C
 C:\Users\Davis-School\source\repos\97-6\obj\Debug\97-6.csproj.CoreCompileInputs.cache
 C:\Users\Davis-School\source\repos\97-6\obj\Debug\97-6.exe
 C:\Users\Davis-School\source\repos\97-6\obj\Debug\97-6.pdb
+C:\Users\david\Documents\GitHub\Skills-Competition-Software\97\97-6-OK\bin\Debug\97-6.exe.config
+C:\Users\david\Documents\GitHub\Skills-Competition-Software\97\97-6-OK\bin\Debug\97-6.exe
+C:\Users\david\Documents\GitHub\Skills-Competition-Software\97\97-6-OK\bin\Debug\97-6.pdb
+C:\Users\david\Documents\GitHub\Skills-Competition-Software\97\97-6-OK\obj\Debug\97-6.csprojResolveAssemblyReference.cache
+C:\Users\david\Documents\GitHub\Skills-Competition-Software\97\97-6-OK\obj\Debug\_97_6.Form1.resources
+C:\Users\david\Documents\GitHub\Skills-Competition-Software\97\97-6-OK\obj\Debug\_97_6.Properties.Resources.resources
+C:\Users\david\Documents\GitHub\Skills-Competition-Software\97\97-6-OK\obj\Debug\97-6.csproj.GenerateResource.Cache
+C:\Users\david\Documents\GitHub\Skills-Competition-Software\97\97-6-OK\obj\Debug\97-6.csproj.CoreCompileInputs.cache
+C:\Users\david\Documents\GitHub\Skills-Competition-Software\97\97-6-OK\obj\Debug\97-6.exe
+C:\Users\david\Documents\GitHub\Skills-Competition-Software\97\97-6-OK\obj\Debug\97-6.pdb
