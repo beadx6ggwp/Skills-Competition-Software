@@ -17,3 +17,13 @@ C:\Users\Saihs\Desktop\Skills-Competition-Software-master\99\99-4-OK\obj\Debug\9
 C:\Users\Saihs\Desktop\Skills-Competition-Software-master\99\99-4-OK\obj\Debug\_99_4.Form1.resources
 C:\Users\Saihs\Desktop\Skills-Competition-Software-master\99\99-4-OK\obj\Debug\_99_4.Properties.Resources.resources
 C:\Users\Saihs\Desktop\Skills-Competition-Software-master\99\99-4-OK\obj\Debug\99-4.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\題庫\解答\04.三角形\bin\Debug\99-4.exe.config
+C:\Users\david\Desktop\題庫\解答\04.三角形\bin\Debug\99-4.exe
+C:\Users\david\Desktop\題庫\解答\04.三角形\bin\Debug\99-4.pdb
+C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\99-4.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\_99_4.Form1.resources
+C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\_99_4.Properties.Resources.resources
+C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\99-4.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\99-4.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\99-4.exe
+C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\99-4.pdb
