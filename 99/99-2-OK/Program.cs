@@ -37,7 +37,7 @@ namespace _99_2
                     {
                         index++;
                         if (index >= city.Length) index = 1;
-                        // 要多一個city.Sum()確認還有城市沒被停電過，否則無限迴圈
+                        // 有被停過電的不算，並且要多一個city.Sum()確認還有城市沒被停電過，否則無限迴圈
                         if (city[index] == 1 && city.Sum() < n) i--;
                     }
                 }

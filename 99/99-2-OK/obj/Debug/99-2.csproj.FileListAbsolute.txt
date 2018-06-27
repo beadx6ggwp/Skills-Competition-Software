@@ -5,3 +5,10 @@ C:\Users\Davis-School\Desktop\99-2\obj\Debug\99-2.csprojResolveAssemblyReference
 C:\Users\Davis-School\Desktop\99-2\obj\Debug\99-2.csproj.CoreCompileInputs.cache
 C:\Users\Davis-School\Desktop\99-2\obj\Debug\99-2.exe
 C:\Users\Davis-School\Desktop\99-2\obj\Debug\99-2.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-2-OK\bin\Debug\99-2.exe.config
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-2-OK\bin\Debug\99-2.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-2-OK\bin\Debug\99-2.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-2-OK\obj\Debug\99-2.csprojResolveAssemblyReference.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-2-OK\obj\Debug\99-2.csproj.CoreCompileInputs.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-2-OK\obj\Debug\99-2.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-2-OK\obj\Debug\99-2.pdb
