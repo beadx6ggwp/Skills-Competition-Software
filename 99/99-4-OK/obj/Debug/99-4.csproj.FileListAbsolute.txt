@@ -27,3 +27,13 @@ C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\99-4.csproj.Generate
 C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\99-4.csproj.CoreCompileInputs.cache
 C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\99-4.exe
 C:\Users\david\Desktop\題庫\解答\04.三角形\obj\Debug\99-4.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-4-OK\bin\Debug\99-4.exe.config
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-4-OK\bin\Debug\99-4.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-4-OK\bin\Debug\99-4.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-4-OK\obj\Debug\99-4.csprojResolveAssemblyReference.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-4-OK\obj\Debug\_99_4.Form1.resources
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-4-OK\obj\Debug\_99_4.Properties.Resources.resources
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-4-OK\obj\Debug\99-4.csproj.GenerateResource.Cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-4-OK\obj\Debug\99-4.csproj.CoreCompileInputs.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-4-OK\obj\Debug\99-4.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\99\99-4-OK\obj\Debug\99-4.pdb
