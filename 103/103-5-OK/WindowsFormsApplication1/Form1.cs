@@ -18,18 +18,14 @@ namespace WindowsFormsApplication1
         }
 
         int[] namber = new int[] { 0, 7, 4, 1, 8, 5, 2, 9, 6, 3 };
-        int text1, text2, x;
-        string text3, y;
+        int text1, text2, modNum, checkLen = 8;
+        string text3, checkNum;
         string mail = "@antu.edu.tw";
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            string all = null;
+            textBox4.Clear();
+            string all = null, str = "";
+            int getNumber = 0;
 
             if (textBox1.Text != "" && textBox2.Text != "")
             {
@@ -38,16 +34,17 @@ namespace WindowsFormsApplication1
 
                 for (int i = text1; i <= text2; i++)
                 {
-
-                    for (int j = 1; j <= i.ToString().Length; j++)
+                    str = i.ToString();
+                    for (int j = 1; j <= checkLen; j++)
                     {
-                        x += int.Parse(i.ToString().Substring(i.ToString().Length - j, 1)) * (i.ToString().Length - j + 1);
+                        getNumber = str[checkLen - j] - '0';
+                        modNum += getNumber * (checkLen - j + 1);
                     }
-                    x = (x % 10);
-                    y = namber[x].ToString();
+                    modNum = (modNum % 10);
+                    checkNum = namber[modNum].ToString();
 
-                    all += i.ToString() + y + mail + ";" + "\t";
-                    x = 0;
+                    all += i.ToString() + checkNum + mail + ";" + "\t";
+                    modNum = 0;
 
                 }
 
@@ -64,16 +61,18 @@ namespace WindowsFormsApplication1
 
                 for (int i = 0; i < strArray.Length; i++)
                 {
-                    for (int j = 1; j <= strArray[i].ToString().Length; j++)
+                    str = strArray[i].ToString();
+                    for (int j = 1; j <= checkLen; j++)
                     {
-                        x += int.Parse(strArray[i].ToString().Substring(strArray[i].ToString().Length - j, 1)) * (strArray[i].ToString().Length - j + 1);
+                        getNumber = str[checkLen - j] - '0';
+                        modNum += getNumber * (checkLen - j + 1);
                     }
 
-                    x = (x % 10);
-                    y = namber[x].ToString();
+                    modNum = (modNum % 10);
+                    checkNum = namber[modNum].ToString();
 
-                    all += strArray[i] + y + mail + ";" + "\t";
-                    x = 0;
+                    all += strArray[i] + checkNum + mail + ";" + "\t";
+                    modNum = 0;
                 }
             }
 

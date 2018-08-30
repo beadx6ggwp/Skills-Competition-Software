@@ -40,3 +40,13 @@ C:\Users\Davis-School\Documents\GitHub\Skills-Competition-Software-master\103\10
 C:\Users\Davis-School\Documents\GitHub\Skills-Competition-Software-master\103\103-5-OK\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\Davis-School\Documents\GitHub\Skills-Competition-Software-master\103\103-5-OK\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Davis-School\Documents\GitHub\Skills-Competition-Software-master\103\103-5-OK\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\103\103-5-OK\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\103\103-5-OK\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\103\103-5-OK\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\103\103-5-OK\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\103\103-5-OK\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\103\103-5-OK\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\103\103-5-OK\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\103\103-5-OK\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\103\103-5-OK\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\103\103-5-OK\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
