@@ -51,9 +51,8 @@ namespace _104_3
         {
             str = str.Split('.')[1];
             double result = 1;
-
-            int length = Math.Min(str.Length, 10);
-            for (int i = 1; i <= length; i++)
+            
+            for (int i = 1; i <= str.Length; i++)
             {
                 result += (1 / Math.Pow(2, i)) * int.Parse(str.Substring(i - 1, 1));
             }

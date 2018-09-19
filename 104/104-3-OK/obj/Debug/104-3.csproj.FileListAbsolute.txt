@@ -16,3 +16,13 @@ C:\Users\david\Documents\GitHub\Skills-Competition-Software-master\104\104-3-OK\
 C:\Users\david\Documents\GitHub\Skills-Competition-Software-master\104\104-3-OK\obj\Debug\104-3.csproj.GenerateResource.Cache
 C:\Users\david\Documents\GitHub\Skills-Competition-Software-master\104\104-3-OK\obj\Debug\104-3.exe
 C:\Users\david\Documents\GitHub\Skills-Competition-Software-master\104\104-3-OK\obj\Debug\104-3.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-3-OK\bin\Debug\104-3.exe.config
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-3-OK\bin\Debug\104-3.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-3-OK\bin\Debug\104-3.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-3-OK\obj\Debug\104-3.csprojAssemblyReference.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-3-OK\obj\Debug\_104_3.Form1.resources
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-3-OK\obj\Debug\_104_3.Properties.Resources.resources
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-3-OK\obj\Debug\104-3.csproj.GenerateResource.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-3-OK\obj\Debug\104-3.csproj.CoreCompileInputs.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-3-OK\obj\Debug\104-3.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-3-OK\obj\Debug\104-3.pdb
