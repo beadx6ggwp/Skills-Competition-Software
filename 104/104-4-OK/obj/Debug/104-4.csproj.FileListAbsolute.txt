@@ -4,3 +4,10 @@ C:\Users\Davis-School\Documents\Visual Studio 2017\Projects\104-4\bin\Debug\104-
 C:\Users\Davis-School\Documents\Visual Studio 2017\Projects\104-4\obj\Debug\104-4.csprojResolveAssemblyReference.cache
 C:\Users\Davis-School\Documents\Visual Studio 2017\Projects\104-4\obj\Debug\104-4.exe
 C:\Users\Davis-School\Documents\Visual Studio 2017\Projects\104-4\obj\Debug\104-4.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-4-OK\bin\Debug\104-4.exe.config
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-4-OK\bin\Debug\104-4.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-4-OK\bin\Debug\104-4.pdb
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-4-OK\obj\Debug\104-4.csprojAssemblyReference.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-4-OK\obj\Debug\104-4.csproj.CoreCompileInputs.cache
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-4-OK\obj\Debug\104-4.exe
+D:\許展維工科賽重點資料備份\許展維工科賽重點資料\Skills-Competition-Software\104\104-4-OK\obj\Debug\104-4.pdb
