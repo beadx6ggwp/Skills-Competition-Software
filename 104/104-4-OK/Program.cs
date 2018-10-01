@@ -75,8 +75,10 @@ namespace _104_4
             dataset = new int[3][];
 
             W("    序列( x軸):");
-            RL();
+            for (int i = 0; i < num; i++)
+                W(i.ToString().PadLeft(3, ' '));
 
+            WL("");
             W("數值串列(上限):");
             dataset[0] = Array.ConvertAll(RL().Split(' '), int.Parse);
 
@@ -121,6 +123,15 @@ namespace _104_4
         {
             WL("顯示各資料相似度");
 
+
+            W("    序列( x軸):");
+            for (int i = 0; i < num; i++)
+                W(i.ToString().PadLeft(5, ' '));
+
+            WL("");
+            W(" 數值個別相似度");
+            for (int i = 0; i < num; i++)
+                W(output_data[i].ToString("0.##").PadLeft(5,' '));
         }
 
 
